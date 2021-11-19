@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @it5-j05h
 - 👀 I’m interested in ... reflect-metadata
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Node.js and all its quirks 
+- 💞️ I’m looking to collaborate on ... Custom GUI Templates for a current CLI im working on
 - 📫 How to reach me ... joshua.rogers.2105@gmail.com
 
 <!---
