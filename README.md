@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @it5-j05h
-- 👀 I’m interested in Webdev
 - 🌱 I’m currently learning life is tough...
-- 💞️ I’m looking to collaborate on ... Custom UI Templates for a current CLI im working on
 - 📫 How to reach me ... rogers.joshua.2105@outlook.com
 
 <!---
